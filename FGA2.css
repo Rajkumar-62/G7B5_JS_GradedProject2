@@ -5,9 +5,11 @@ img{
     width: 395px;
     align-items: center;
 }
+
 body{
     margin: 0%;
 }
+
 div{
     position: absolute;
     top: 15%;
@@ -43,6 +45,7 @@ button{
     font-size: 22px;
     background-color: rgb(179, 240, 11);
 }
+
 button:hover{
     background-color: rgb(240, 103, 11);
 }
