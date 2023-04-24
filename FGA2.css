@@ -37,16 +37,30 @@ input:focus{
     background-color: rgba (70, 130, 180, 0.35);
 }
 
-button{
+button1{
+    margin: 25px;
+    width: 80px;
+    border-radius: 2px;
+    height: 40px;
+    font-size: 12px;
+    background-color: rgb(179, 240, 11);
+}
+
+button1:hover{
+    background-color: rgb(240, 103, 11);
+}
+button2{
     margin: 50px;
     width: 120px;
     border-radius: 4px;
     height: 40px;
     font-size: 22px;
     background-color: rgb(179, 240, 11);
+    padding: 10px;
+    border-color: black;
 }
 
-button:hover{
+button2:hover{
     background-color: rgb(240, 103, 11);
 }
 
